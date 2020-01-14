@@ -3,7 +3,6 @@
 namespace app\member\command;
 
 use think\console\Command;
-//use think\console\command\Make;
 use think\console\Input;
 use think\console\input\Argument;
 use think\console\Output;
